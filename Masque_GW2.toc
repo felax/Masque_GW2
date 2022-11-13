@@ -8,7 +8,7 @@
 ## Dependencies: Masque
 
 ## X-Category: Action Bars
-## X-Credits: Epix, StormFX
+## X-Credits: Winglord89, StormFX
 ## X-Curse-Project-ID: 697965
 ## X-Wago-ID: RXKqabKy
 
