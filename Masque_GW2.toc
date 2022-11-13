@@ -10,5 +10,6 @@
 ## X-Category: Action Bars
 ## X-Credits: Epix, StormFX
 ## X-Curse-Project-ID: 697965
+## X-Wago-ID: RXKqabKy
 
 Masque_GW2.lua
