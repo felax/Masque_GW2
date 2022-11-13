@@ -1,0 +1,14 @@
+## Interface: 30400
+
+## Title: Masque: |cffffffffGW2|r
+## Notes: GW2 skin for Masque.
+
+## Version: 1.0.0
+## Author: Felax, StormFX
+## Dependencies: Masque
+
+## X-Category: Action Bars
+## X-Credits: Epix, StormFX
+## X-Curse-Project-ID: 697965
+
+Masque_GW2.lua
